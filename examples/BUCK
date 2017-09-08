@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'simple_parse',
+  srcs = [
+    'simple_parse.c',
+  ],
+  deps = [
+    '//:jansson',
+  ],
+)

@@ -31,3 +31,8 @@ stamp-h1
 /jansson_private_config.h
 /build
 *.exe
+/.buckd/
+/buck-out/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
